@@ -7,7 +7,7 @@ Complete Exploratory Data Analysis of a 50K messy retail dataset including clean
 
 #### The project includes:
 
-##### Data Cleaning
+***** Data Cleaning
 
 ##### Data Transformation
 
