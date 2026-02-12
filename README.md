@@ -1,11 +1,11 @@
 # Retail-Sales-EDA-Project
-* Complete Exploratory Data Analysis of a 50K messy retail dataset including cleaning, visualization, business insights, and anomaly detection.
+Complete Exploratory Data Analysis of a 50K messy retail dataset including cleaning, visualization, business insights, and anomaly detection.
 
 #### Project Overview
 
-* This project performs comprehensive Exploratory Data Analysis (EDA) on a 50,000-record messy retail dataset. The dataset contained missing values, duplicate records, inconsistent city names, invalid quantities, and pricing outliers.
+This project performs comprehensive Exploratory Data Analysis (EDA) on a 50,000-record messy retail dataset. The dataset contained missing values, duplicate records, inconsistent city names, invalid quantities, and pricing outliers.
 
-* The goal was to clean the data, perform analysis, detect anomalies, and generate actionable business insights.
+The goal was to clean the data, perform analysis, detect anomalies, and generate actionable business insights.
 
 #### Key Analysis Areas:
 
@@ -68,7 +68,7 @@
 
 #### Conclusion
 
-* This project successfully transformed a highly messy retail dataset into a clean, structured, and analysis-ready dataset through systematic data cleaning and preprocessing. Key issues such as missing values, duplicate orders, inconsistent city names, negative quantities, and pricing outliers were identified and resolved.
+This project successfully transformed a highly messy retail dataset into a clean, structured, and analysis-ready dataset through systematic data cleaning and preprocessing. Key issues such as missing values, duplicate orders, inconsistent city names, negative quantities, and pricing outliers were identified and resolved.
 
 ##### Through exploratory data analysis, the project uncovered:
 
