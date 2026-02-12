@@ -68,11 +68,22 @@
 
 #### Conclusion
 
-* This project successfully cleaned and analyzed a messy retail dataset. The analysis revealed key revenue drivers, customer behavior trends, regional performance differences, discount impacts, and seasonal sales patterns.
+* This project successfully transformed a highly messy retail dataset into a clean, structured, and analysis-ready dataset through systematic data cleaning and preprocessing. Key issues such as missing values, duplicate orders, inconsistent city names, negative quantities, and pricing outliers were identified and resolved.
 
-##### Strategic recommendations include:
-* Expanding high-performing categories
-* Optimizing discount strategies
-* Focusing marketing efforts on top-performing cities
-* Strengthening customer retention programs
-* Implementing stricter data validation controls
+##### Through exploratory data analysis, the project uncovered:
+
+* Revenue-driving cities and regions
+
+* High-performing product categories
+
+* Seasonal sales trends and quarterly performance patterns
+
+* Customer behavior differences between new and returning customers
+
+* The impact of discount strategies on revenue and demand
+
+* Outliers and suspicious transactions affecting business metrics
+
+* The insights derived from this analysis provide clear, actionable recommendations for improving marketing strategies, optimizing discount policies, strengthening customer retention, and enhancing data quality controls.
+
+* Overall, this project demonstrates strong skills in data cleaning, analytical thinking, visualization, and business-oriented decision-making using Python.
